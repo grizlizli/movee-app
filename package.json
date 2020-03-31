@@ -1,7 +1,10 @@
 {
   "name": "movee-app",
   "nativescript": {
-    "id": "org.nativescript.moveeapp"
+    "id": "org.nativescript.moveeapp",
+    "tns-ios": {
+      "version": "6.5.0"
+    }
   },
   "version": "0.0.0",
   "scripts": {
